@@ -9,7 +9,7 @@ I've been learning code for 3 years, then choose to be a frontend developer, in 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [hishamk1999@gmail.com](mailto:hishamk1999@gmail.com)
 * 🧠  I'm learning React Js, Node.js
-* 🤝  I'm open to collaborating on Web applications with React Js
+* 🤝  I'm open to collaborating on Web applications with React Js and Next Js
 
 ### Skills
 
