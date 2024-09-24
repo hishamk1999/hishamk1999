@@ -8,7 +8,7 @@ I have been coding for 3+ years, and I chose to specialize in frontend developme
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [hishamk1999@gmail.com](mailto:hishamk1999@gmail.com)
-* 🧠  I'm learning React Js, Node.js
+* 🧠  I'm utilizing React.js for the front end
 * 🤝  I'm open to collaborating on Web applications with React Js and Next Js
 
 ### Skills
