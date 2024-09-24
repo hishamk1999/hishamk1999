@@ -4,7 +4,7 @@ Hi 👋 My name is Hisham Khaled
 Frontend Web developer
 ----------------------
 
-I've been learning code for 3 years, then choose to be a frontend developer, in the beginning, I started with c++ then learn data structure then start learning HTML, CSS, JavaScript, Reactjs, and Sass. I have a passion to learn more and more...
+I have been coding for 3+ years, and I chose to specialize in frontend development. My journey started with learning C++ and data structures, which helped build a solid foundation. From there, I moved on to mastering HTML, CSS, JavaScript, React.js, and Sass. I have a strong passion for learning new technologies and continuously enhancing my skills.
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [hishamk1999@gmail.com](mailto:hishamk1999@gmail.com)
